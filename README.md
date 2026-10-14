@@ -16,7 +16,7 @@ Linux, VS Code and Python are all open source projects.
 
 They are maintained by thousands of people.
 
-These people are called contributers.
+These people are called contributors.
 
 ## Why Contribute?
 
